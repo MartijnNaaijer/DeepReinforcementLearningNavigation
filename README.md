@@ -10,7 +10,7 @@ collected the agent receives a reward of +1, and if he picks a blue banana, he r
  of the game. One episode consists of 300 timesteps, and if the agent succeeds in obtaining an average score of +13
 in 100 subsequent episodes the environment is considered to be solved by the agent.
 
-
+![alt text](https://github.com/MartijnNaaijer/DeepReinforcementLearningNavigation/blob/master/picture_bananas.png "You like bananas?")
 
 ### Requirements
 
