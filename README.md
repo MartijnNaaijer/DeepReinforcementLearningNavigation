@@ -2,8 +2,7 @@
 
 ### Introduction
 
-In this repository you can find how an agent moves through Unity's Navigation environment, and learns to solve it
-using Deep Reinforcement Learning. It is similar to Unity's Banana Collector environment, but not identical to it.
+In this repository you can find a notebook  in which an agent moves through Unity's Navigation environment, and learns to solve this environment using Deep Reinforcement Learning. It is similar to Unity's Banana Collector environment, but not identical to it.
 
 The environment consists of a large square space in which you can see yellow and blue bananas on the floor. The goal
 is to collect as many yellow bananas while avoiding the blue bananas. For every yellow banana that is 
